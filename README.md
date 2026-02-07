@@ -1,1 +1,1 @@
-![Project Output] (practical.png)
+![Project Output](./practical.png)
